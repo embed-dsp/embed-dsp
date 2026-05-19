@@ -11,12 +11,16 @@ Firmware, Embedded Software and Digital Design.
 
 ## Public Repositories
 
+
 ### Digital Design Tools
 * [ed_iverilog](https://github.com/embed-dsp/ed_iverilog)
 * [ed_gtkwave](https://github.com/embed-dsp/ed_gtkwave)
 * [ed_verilator](https://github.com/embed-dsp/ed_verilator)
 * [ed_verilog_perl](https://github.com/embed-dsp/ed_verilog_perl)
 * [ed_yosys](https://github.com/embed-dsp/ed_yosys)
+
+
+### FPGA Design Tools
 * [ed_digilent_adept](https://github.com/embed-dsp/ed_digilent_adept)
 * [ed_digilent_libcse](https://github.com/embed-dsp/ed_digilent_libcse)
 * [ed_xilinx_platform_cable_2_usb_driver](https://github.com/embed-dsp/ed_xilinx_platform_cable_2_usb_driver)
@@ -33,19 +37,21 @@ Firmware, Embedded Software and Digital Design.
 * [ed_trilinos](https://github.com/embed-dsp/ed_trilinos)
 
 
-### Digital-Signal-Processing (DSP) Design Tools
-* [ed_octave](https://github.com/embed-dsp/ed_octave)
-
-
 ### Printed-Circuit-Board (PCB) Design Tools
 * [ed_kicad](https://github.com/embed-dsp/ed_kicad)
 
 
+### Digital-Signal-Processing (DSP) Design Tools
+* [ed_octave](https://github.com/embed-dsp/ed_octave)
+
+
 ### Software Tools
-* [ed_avr_gcc](https://github.com/embed-dsp/ed_avr_gcc)
 * [ed_javacc](https://github.com/embed-dsp/ed_javacc)
-* [ed_openocd](https://github.com/embed-dsp/ed_openocd)
 * [ed_linux_utils](https://github.com/embed-dsp/ed_linux_utils)
+
+
+### Firmware Tools
+* [ed_openocd](https://github.com/embed-dsp/ed_openocd)
 
 
 ### Software Libraries
