@@ -18,6 +18,21 @@ Firmware, Embedded Software and Digital Design.
 * [ed_nvidia_nccl](https://github.com/embed-dsp/ed_nvidia_nccl)
 
 
+### Local LLMs
+* [ed_llama.cpp](https://github.com/embed-dsp/ed_llama.cpp)
+* [ed_llama-swap](https://github.com/embed-dsp/ed_llama-swap)
+
+
+### Coding Agents
+* [ed_pi-code](https://github.com/embed-dsp/ed_pi-code)
+* [ed_opencode](https://github.com/embed-dsp/ed_opencode)
+
+
+### Deep Learning
+* [ed_pytorch](https://github.com/embed-dsp/ed_pytorch)
+* [ed_tensorflow](https://github.com/embed-dsp/ed_tensorflow)
+
+
 ### Digital Design Tools
 * [ed_iverilog](https://github.com/embed-dsp/ed_iverilog)
 * [ed_gtkwave](https://github.com/embed-dsp/ed_gtkwave)

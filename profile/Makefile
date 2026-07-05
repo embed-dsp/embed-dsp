@@ -20,8 +20,25 @@ MD := header.md
 # MD += linux.md
 # MD += guide.md
 
-# Version 3: ...
+# Version 3: e0179b5
+# MD += nvidia.md
+# MD += tool_digital.md
+# MD += tool_fpga.md
+# MD += tool_esl.md
+# MD += tool_analog.md
+# MD += tool_pcb.md
+# MD += tool_dsp.md
+# MD += tool_sw.md
+# MD += tool_fw.md
+# MD += lib_sw.md
+# MD += linux.md
+# MD += guide.md
+
+# Version 4: ...
 MD += nvidia.md
+MD += ai_local_llm.md
+MD += ai_coding_agent.md
+MD += ai_deep_learn.md
 MD += tool_digital.md
 MD += tool_fpga.md
 MD += tool_esl.md
