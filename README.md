@@ -12,6 +12,10 @@ Firmware, Embedded Software and Digital Design.
 ## Public Repositories
 
 
+### NVIDIA
+* [ed_nvidia_gpu](https://github.com/embed-dsp/ed_nvidia_gpu)
+
+
 ### Digital Design Tools
 * [ed_iverilog](https://github.com/embed-dsp/ed_iverilog)
 * [ed_gtkwave](https://github.com/embed-dsp/ed_gtkwave)
@@ -21,9 +25,9 @@ Firmware, Embedded Software and Digital Design.
 
 
 ### FPGA Design Tools
+* [ed_xilinx_platform_cable_2_usb_driver](https://github.com/embed-dsp/ed_xilinx_platform_cable_2_usb_driver)
 * [ed_digilent_adept](https://github.com/embed-dsp/ed_digilent_adept)
 * [ed_digilent_libcse](https://github.com/embed-dsp/ed_digilent_libcse)
-* [ed_xilinx_platform_cable_2_usb_driver](https://github.com/embed-dsp/ed_xilinx_platform_cable_2_usb_driver)
 
 
 ### Electronic-System-Level (ESL) Design Tools
