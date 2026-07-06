@@ -23,20 +23,20 @@ Firmware, Embedded Software and Digital Design.
             </ul>
         </td>
         <td width="50%" valign="top">
-            <h3>Coding Agents</h3>
+            <h3>Local LLMs</h3>
             <ul>
-                <li><a href="https://github.com/embed-dsp/ed_pi-code">ed_pi-code</a></li>
-                <li><a href="https://github.com/embed-dsp/ed_opencode">ed_opencode</a></li>
+                <li><a href="https://github.com/embed-dsp/ed_llama.cpp">ed_llama.cpp</a></li>
+                <li><a href="https://github.com/embed-dsp/ed_llama-swap">ed_llama-swap</a></li>
             </ul>
         </td>
     </tr>
     <tr></tr>
     <tr>
         <td width="50%" valign="top">
-            <h3>Local LLMs</h3>
+            <h3>Coding Agents</h3>
             <ul>
-                <li><a href="https://github.com/embed-dsp/ed_llama.cpp">ed_llama.cpp</a></li>
-                <li><a href="https://github.com/embed-dsp/ed_llama-swap">ed_llama-swap</a></li>
+                <li><a href="https://github.com/embed-dsp/ed_pi-code">ed_pi-code</a></li>
+                <li><a href="https://github.com/embed-dsp/ed_opencode">ed_opencode</a></li>
             </ul>
         </td>
         <td width="50%" valign="top">
