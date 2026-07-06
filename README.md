@@ -30,6 +30,7 @@ Firmware, Embedded Software and Digital Design.
             </ul>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td width="50%" valign="top">
             <h3>Local LLMs</h3>
@@ -46,6 +47,7 @@ Firmware, Embedded Software and Digital Design.
             </ul>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td width="50%" valign="top">
             <h3>Digital Design Tools</h3>
@@ -66,6 +68,7 @@ Firmware, Embedded Software and Digital Design.
             </ul>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td width="50%" valign="top">
             <h3>Analog Design Tools</h3>
@@ -82,6 +85,7 @@ Firmware, Embedded Software and Digital Design.
             </ul>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td width="50%" valign="top">
             <h3>Electronic-System-Level (ESL) Design Tools</h3>
@@ -97,6 +101,7 @@ Firmware, Embedded Software and Digital Design.
             </ul>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td width="50%" valign="top">
             <h3>Software Tools</h3>
@@ -112,6 +117,7 @@ Firmware, Embedded Software and Digital Design.
             </ul>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td width="50%" valign="top">
             <h3>Firmware Tools</h3>
@@ -126,6 +132,7 @@ Firmware, Embedded Software and Digital Design.
             </ul>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td width="50%" valign="top">
             <h3>Guides</h3>
