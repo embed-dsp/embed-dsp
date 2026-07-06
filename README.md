@@ -12,7 +12,7 @@ Firmware, Embedded Software and Digital Design.
 ## Public Repositories
 
 
-<table>
+<table width="100%">
     <tr>
         <td width="50%" valign="top">
             <h3>NVIDIA</h3>
