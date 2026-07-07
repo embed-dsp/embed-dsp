@@ -19,6 +19,7 @@ Firmware, Embedded Software and Digital Design.
             <ul>
                 <li><a href="https://github.com/embed-dsp/ed_nvidia_gpu">ed_nvidia_gpu</a></li>
                 <li><a href="https://github.com/embed-dsp/ed_nvidia_cuda">ed_nvidia_cuda</a></li>
+                <li><a href="https://github.com/embed-dsp/ed_nvidia_cudnn">ed_nvidia_cudnn</a></li>
                 <li><a href="https://github.com/embed-dsp/ed_nvidia_nccl">ed_nvidia_nccl</a></li>
             </ul>
         </td>
